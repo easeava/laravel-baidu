@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace EaseAva;
+namespace EaseAva\LaravelBaidu;
 
 use Illuminate\Support\ServiceProvider as Provider;
 use Illuminate\Foundation\Application;
