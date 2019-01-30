@@ -1,0 +1,18 @@
+{
+    "name": "easeava/laravel-baidu",
+    "license": "MIT",
+    "require": {
+        "easeava/baidu": "v1.0.0-beta.2"
+    },
+    "authors": [
+        {
+            "name": "easeava",
+            "email": "tthd@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "EaseAva\\LaravelBaidu": "src/"
+        }
+    }
+}
